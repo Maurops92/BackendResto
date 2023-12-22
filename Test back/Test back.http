@@ -1,0 +1,6 @@
+@Test_back_HostAddress = http://www.crudResto.somee.com
+
+GET {{Test_back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
